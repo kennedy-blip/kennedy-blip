@@ -1,3 +1,5 @@
+##I'm Kennedy-Software Developer
+
 # 💫 About Me:
 im currently working on frontend and backend<br>simply fullstack developer<br>currently working on a number of projects including developing softwares and database systems<br><br>
 
