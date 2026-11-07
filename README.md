@@ -76,10 +76,6 @@ I'm a full-stack developer who bridges product UX with scalable backend services
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kennedy-blip&theme=tokyonight&hide_border=true&layout=compact&langs_count=7" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=kennedy-blip&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="100%" />
-</p>
-
 ---
 
 ## 🐍 Contribution Snake Animation
